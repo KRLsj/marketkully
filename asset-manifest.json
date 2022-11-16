@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/marketkully/static/css/main.bcc7b9b0.css",
+    "main.js": "/marketkully/static/js/main.22af94c5.js",
+    "static/js/787.68a32353.chunk.js": "/marketkully/static/js/787.68a32353.chunk.js",
+    "index.html": "/marketkully/index.html",
+    "main.bcc7b9b0.css.map": "/marketkully/static/css/main.bcc7b9b0.css.map",
+    "main.22af94c5.js.map": "/marketkully/static/js/main.22af94c5.js.map",
+    "787.68a32353.chunk.js.map": "/marketkully/static/js/787.68a32353.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcc7b9b0.css",
+    "static/js/main.22af94c5.js"
+  ]
+}
